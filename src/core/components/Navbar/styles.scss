@@ -1,0 +1,24 @@
+.nav-container {
+    background: #1890FF;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    
+}
+
+.home-title { 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    color: #fff;
+    font-size: 24px;
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+
+  a {   
+    text-decoration: none;
+   }
